@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Sakura Takahashi",
+    "label": "Undergraduate Mathematics and Computer Science Student at UH Manoa",
+    "picture": "https://github.com/sakuraet.png",
+    "email": "sakuraetak@gmail.com",
+    "phone": "",
+    "website": "https://sakuraet.github.io",
+    "summary": "I am studying for a B.S. in Mathematics and Computer Science in the Department of Mathematics and Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sakuraet", "url": "http://github.com/sakuraet" },
+      { "network": "linkedin", "username": "sakuratakahashi", "url": "https://www.linkedin.com/in/sakura-takahashi-60401428a/" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Optimization Methods & Theory" },
+    { "name": "Data Science & Analytics" },
+    { "name": "Probabilistic Modeling" },
+    { "name": "Data Visualization" },
+    { "name": "3D Graphics & Animation" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "LEAN", "R", "Python", "Maya" ]
     },
     {
       "name": "Toolsets/OS",
