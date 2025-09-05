@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://hcream.org/blog/oahu-bus/CommunityLeiden.png
+image: img/busmap.png
 title: "Optimal Pathing of TheBus Routes"
 date: 2024
 published: true
