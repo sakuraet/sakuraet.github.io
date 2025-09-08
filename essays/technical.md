@@ -3,15 +3,15 @@ layout: essay
 type: essay
 title: "Do Programmers Dream of Infinite Sheep "
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-09-08
 published: true
 labels:
-  - Engineering
+  - Programming
+  - Career Skills
+  - Mathematical Modeling
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-# Third, create a technical essay (approximately 3-4 paragraphs) that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
+<img width="200px" class="rounded float-start pe-4" src="../img/sheep.jpg">
 
 *You will be required to do wrong no matter where you go. It is the basic condition of life, to be required to violate your own identity. At some time, every creature which lives must do so.* -Philip K. Dick
 
