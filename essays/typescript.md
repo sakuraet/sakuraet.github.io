@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Perhaps It Is Time To Lock In"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2025-09-08
 published: true
 labels:
   - Typescript
