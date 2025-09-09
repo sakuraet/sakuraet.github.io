@@ -32,6 +32,8 @@ Ultimately though, it's good that it keeps me challenged and on my toes. It keep
 At this point, I know that both TypeScript and the WODs are pushing me outside of my comfort zone. Static typing makes me slow down and think harder about my code, and the timed WODs put me in situations that feel stressful. But instead of avoiding that discomfort, I realize it just means I need to grind. If I keep practicing, the parts that feel hard now, will eventually become second nature. The only way to get better is through repetition, so my plan is to keep coding consistently, review my mistakes, and treat each WOD as a chance to improve rather than just something to get through. It won’t be easy, but I can already tell that the effort will pay off in making me a stronger coder
 
 
-*Okay so it's settled. It's time to lock in perhaps.*
+*Okay so it's settled. It's time to lock in perhaps.* 
+
+Oh! And of course, the grammar checking and editing is courtesy of the one and only ChatGPT!
 
 
