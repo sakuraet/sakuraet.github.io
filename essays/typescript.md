@@ -11,6 +11,7 @@ labels:
   - Newbie
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript_meme.png">
 
 *Oh man! I don't feel like locking in!*
 
