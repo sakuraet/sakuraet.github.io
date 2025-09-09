@@ -29,15 +29,15 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Mathematics & Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-01-09",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +45,61 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Department of Transportation: Engineering Design",
+      "position": "Project Management Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2025-05-27",
+      "endDate": "2025-08-08"
+      "summary": "Project Management Intern for HDOT Airports Division",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official PDRs and field orders",
+        "Designed signage for concourse E at HNL Airport"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UHERO",
+      "position": "Housing Research Assistant",
+      "website": "",
+      "startDate": "2025-08-01",
+      "endDate": "Present",
+      "summary": "Economics Research Assistant under the Housing Division",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Created pro forma models based on Oahu housing data",
+        "Coded housing dashboards in R for the state government"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaii Center for Research and Excellence in Applied Mathematics",
+      "website": "https://hcream.org/",
+      "position": "Undergraduate Researcher",
+      "startDate": "2024-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Undergraduate Research Assistant under Alan Tong",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Designed a mathematical model for optiming TheBus routes",
+        "Created data visualizations for various projects"
       ]
     },
     {
-      "organization": "",
+      "organization": "Math Club at UH Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Co-president",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Co-president and founder, 2024-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Urban Planning State Champion",
+      "date": "2022",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "Won the annual ULI state competition after winning the chapter division"
     }
   ],
   "references": [
