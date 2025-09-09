@@ -39,8 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2023-01-09",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -49,7 +48,7 @@
       "position": "Project Management Intern",
       "website": "",
       "startDate": "2025-05-27",
-      "endDate": "2025-08-08"
+      "endDate": "2025-08-08",
       "summary": "Project Management Intern for HDOT Airports Division",
       "highlights": [
         "Maintain, update, and oversee official PDRs and field orders",
