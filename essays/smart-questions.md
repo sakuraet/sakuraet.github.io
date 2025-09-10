@@ -1,25 +1,31 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "The Gen Z Stare"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2025-09-08
 published: false
 labels:
   - Questions
   - Answers
   - StackOverflow
+  - Gen Z
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/emoji.png">
+Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience. 
 
-## Is there such thing as a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+## The Gen Z Stare
+
+So for those of you who are chronically online, like moi, you may have heard this new slang referered as... Tada, The Gen Z Stare! It's the type of look that beautifully encaptures that culminates dismay, stink eye, and apathy alto into a nicely wrapped gift of blank stares and fixed eyes. It's *the* stare that someone gives you when you ask a not so smart question. You know we've all been there like why is my printer not printing when you're not connected or will unplugging my ethernet improve my ping? 
+
+The Gen Z stare is one of many ways that the world tries to remind you that, maybe just maybee... 
+We should think before we ask so, onwards to the path
 
 ## What’s a smart question?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Stack Overflow, a question and answer site for programmers and mat, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
