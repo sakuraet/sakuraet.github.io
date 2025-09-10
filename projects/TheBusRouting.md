@@ -11,8 +11,10 @@ labels:
   - Gephi
   - Python 
   - Rstudio
-summary: "I contributed research in accordance with Alan Tong under HCREAM (Hawaii Center for Research and Excellence in Applied Mathematics) pertaining to TheBus routes in Oahu. Using optimization methods and graph theory, a multidimensional map was coded into Python so that using an abstract topological space, the nodes with the highest degree could be fixed. This allowed for optimization algorithims could find the shortest path based on situational parameters."
+summary: "I contributed research in accordance with Alan Tong under HCREAM (Hawaii Center for Research and Excellence in Applied Mathematics) pertaining to TheBus routes in Oahu."
 ---
+
+*Using optimization methods and graph theory, a multidimensional map was coded into Python so that using an abstract topological space, the nodes with the highest degree could be fixed. This allowed for optimization algorithims could find the shortest path based on situational parameters.*
 
 Thompson paradox states the following: the equilibrium speed of car traffic on a road network is determined by the average door-to-door speed of equivalent journeys taken by public transport. In other words, the speed of all traffic on a road is controlled by the speed of the public transportation along that road. It is a paradox because worsening the road for private driver to improve public transportation will create more motivation to use public transportation, improving private transportation as well. This motivates research improving bus transportation in high traffic areas, such as that of Honolulu, Hawai'i. Honolulu ranks 18th worst city in the United States for the annual global traffic scorecard for 2023 by INRIX.
 
