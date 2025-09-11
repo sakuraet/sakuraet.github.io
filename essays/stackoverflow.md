@@ -23,7 +23,9 @@ So for those of you who are chronically online, like moi, you may have heard thi
 The Gen Z stare is one of many ways that the world tries to remind you that, maybe just maybee... 
 We should think before we ask so, onwards to the path
 
-## What’s a smart question?
+## So How Do I Know If I'm Being Smart?
+
+Low and behold, Stackoverflow is the place to be.
 
 Stack Overflow, a question and answer site for programmers and mat, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
 
