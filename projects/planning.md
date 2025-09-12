@@ -22,4 +22,4 @@ I worked on a team project with the Urban Land Institute (ULI) and Central Pacif
 
 Alongside creating the schematics, my team and I prepared and presented a Request for Proposal (RFP) for the project to investors, industry mentors, and public officials. This required us to clearly communicate the design, financial models, and community benefits in a way that connected technical details with larger social goals. Presenting as a team to such a diverse group of stakeholders taught me how to adapt my communication style, build confidence in professional settings, and see how design, policy, and finance intersect in real urban planning projects.
 
-You can learn more about 
+You can learn more about Urban Land Institute [here](https://uli.org/)!
