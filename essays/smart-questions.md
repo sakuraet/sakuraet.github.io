@@ -25,38 +25,36 @@ We should think before we ask so, onwards to the path
 
 ## What’s a smart question?
 
-Stack Overflow, a question and answer site for programmers and mat, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Low and behold to the holy grail of smart questions.. Stackoverflow! 
+Now you many be asking what Stackoverflow is; it's essentially reddit for programmers, math enthusiasts, and anyone interested in coding! It's the place to be to ask questions about issues on coding or anything technical that you'd like more familiarity with. Now using this excellent website, I gathered some  examples of smart questions and well the opposite.. 
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
 ```
-Q: python date of the previous month
+Q: What is the '-->' operator in C/C++?
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+After reading Hidden Features and Dark Corners of C++/STL on comp.lang.c++.moderated, I was completely surprised that the following snippet compiled and worked in both Visual Studio 2008 and G++ 4.4. I would assume this is also valid C since it works in GCC as well.
 
-I have solved this trouble in bash with:
+Here's the code:
 
-echo $(date -d"3 month ago" "+%G%m%d")
+#include <stdio.h>
+int main()
+{
+    int x = 10;
+    while (x --> 0) // x goes to 0
+    {
+        printf("%d ", x);
+    }
+}
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+Output:
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
+9 8 7 6 5 4 3 2 1 0
 
-Thanks for your help!
+Where is this defined in the standard, and where has it come from?
+
 ```
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
