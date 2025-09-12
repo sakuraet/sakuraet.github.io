@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "sakuraet", "url": "http://github.com/sakuraet" },
-      { "network": "linkedin", "username": "sakuratakahashi", "url": "https://www.linkedin.com/in/sakura-takahashi-60401428a/" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+      { "network": "linkedin", "username": "sakuratakahashi", "url": "https://www.linkedin.com/in/sakura-takahashi-60401428a/" }
     ]
   },
   "interests": [
