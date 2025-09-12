@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/OahuNeighborhoods.png
+image: img/bus.png
 title: "Optimal Pathing of TheBus Routes"
 date: 2024
 published: true
