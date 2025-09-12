@@ -35,7 +35,7 @@ Q: What is the '-->' operator in C/C++?
 
 
 
-After reading Hidden Features and Dark Corners of C++/STL on comp.lang.c++.moderated, I was completely surprised that the following snippet compiled and worked in both Visual Studio 2008 and G++ 4.4. I would assume this is also valid C since it works in GCC as well.
+After reading [Hidden Features and Dark Corners of C++/STL](http://groups.google.com/group/comp.lang.c++.moderated/msg/33f173780d58dd20) on comp.lang.c++.moderated, I was completely surprised that the following snippet compiled and worked in both Visual Studio 2008 and G++ 4.4. I would assume this is also valid C since it works in GCC as well.
 
 Here's the code:
 
