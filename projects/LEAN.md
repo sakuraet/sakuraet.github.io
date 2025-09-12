@@ -1,61 +1,33 @@
-
-https://math.hawaii.edu/wordpress/marginis/jla/
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: false
+image: img/lean.png
+title: "Coding Proofs in LEAN"
+date: 2025
+published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - LEAN V4
+  - Mathematical Proofs
+  - JLA
+summary: "Under Professor Kjos-Hansen I usedLEAN V4 and Mathlib to code mathematical proofs from the Journal of Logic and Analysis, to be added as formal marginalia for an article published in Marginis."
 ---
+I worked on formalizing mathematical proofs from the *Journal of Logic and Analysis* using LEAN V4 and Mathlib. My job was to take the proofs from the journal and translate them into a form that LEAN could check, making sure that every step was completely correct and could logically compile. By doing this, I was able to create fully verified versions of these proofs, which could then be used as reliable references for other mathematicians.
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+I worked closely with Professor Kjos Hansen on this project, who helped guide me through both the technical and theoretical parts of using LEAN. My work ended up being added as formal marginalia for an article published in *Marginis* on the UH Manoa Math Website. Overall, this experience gave me a lot of practice in formal proof writing and showed me how computational tools like LEAN can be applied to real research in logic and analysis.
+ 
+For example the code below shows lemmas created in order to prove (by automation) the density of the rationals in the reals, and then more elaborately the density of the rationals Q in [0,1].
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+```lean
+lemma real_dense : "∀x::real. ∀y::real. (x < y ⟶ (∃z::real. x < z ∧ z < y))"
+  using dense by blast
 
-To give you a flavor of the game, here is an excerpt from one run:
+lemma rat_dense_in_real : "∀x::real. ∀y::real. (x < y ⟶ (∃z::rat. x < real_of_rat(z) ∧ real_of_rat(z) < y))"
+  by (simp add: of_rat_dense)
 
-<hr>
+lemma rat_dense_in_real_unit : "∀x::real. ∀y::real. (
+  (x < y ∧  (0 ≤ x ∧ x ≤ 1) ∧  (0 ≤ y ∧ y ≤ 1))  ⟶
+  (∃z::rat.(0 ≤ real_of_rat(z) ∧ real_of_rat(z) ≤ 1) ∧ x < real_of_rat(z) ∧ real_of_rat(z) < y)
+)"
+```
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+You can learn more at the [UH Manoa Math Marginis Website!](https://math.hawaii.edu/wordpress/marginis/jla/).
