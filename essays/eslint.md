@@ -13,26 +13,25 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/whitespace.jpg">
 
-*Oh man! I don't feel like locking in!*
+Ah yes, coding standards... The bane of many programmers, myself included, as my title clearly shows. While many people argue the benefits of coding standards, here’s my case: whitespace is an archaic concept that should be left behind.
 
-## My Feelings On Typescript
+## Coding Standards
 
-Coming into TypeScript as a complete beginner, I found it both interesting and challenging. Since it’s built on top of JavaScript, a lot of the syntax feels familiar, but the static typing aspect is tough for me. I’m used to writing code more freely, so having to stop and think carefully about the types of variables and function inputs adds an extra layer of difficulty. At times it feels like it slows me down, but I can see how it forces me to be more precise and intentional in my coding. Compared to other languages I’ve touched, TypeScript feels stricter, but I think that structure will help me in the long run. 
+So what are coding standards? 
 
-*I just have to tell myself that writing cleaner code will be fruitful in the end... Even if I don't like it..*
+To me coding standards are just style rules depending on how the developers thought organization would fit best for them. However, the internet says that these minor changes like indentation, brace placement, semicolons, or line length are the key structures to reliable and maintable code. 
 
-## My Feelings On WODs
+Now don't get me wrong, some coding standards like avoiding undeclared variables, unused imports, or confusing scoping rules, are beneficial overall. However, most coding standards, in my opinon take away from the bigger picture when it comes to coding. I think instead of spending time fixing tabs versus spaces or the indentation of a bracket, programmers could spend more time working on their logic and actual debugging.
 
-The athletic software engineering style with WODs has been difficult for me. I don’t really enjoy being put on the spot with a timer while coding, it feels stressful and uncomfortable. It makes me nervous, and sometimes I freeze up instead of coding naturally. Even though I don’t like that feeling, I can already tell that this approach will push me to improve. Being timed forces me to practice under pressure, and even though it’s not enjoyable right now, I think it will help me become a faster and more confident coder in the future. 
+## Eslint
 
-Ultimately though, it's good that it keeps me challenged and on my toes. It keeps me engaged, and I like being able to track my progress over time. I think this style of learning will work eventually because it builds real-world skills, like coding under deadlines and debugging quickly, which will be something that I can carry into internships or jobs.
+ESLint is a tool that checks your code against standards like these, and boy was it an interesting experience to say the least. I think after this week I know how Moses felt when he split apart the red sea. Immediate red squiggles the moment you run '''npm run lint'''. I do have to admit though after the first few times working with Eslint, the struggle does get easier and '''npm run lint-fix''' becomes your new favorite buddy. 
 
-## So What Now
+However, one has to apperciate the clarity of code Eslint makes you write. Kinda like how one has to imagine Sisyphus is happy cleanning all these errors. But, I digress. Eslint is a good tool to have when working on a project with multiple collaboraters, the squeaky clean code allows for less friction on teams and readability for eveyone. 
 
-At this point, I know that both TypeScript and the WODs are pushing me outside of my comfort zone. Static typing makes me slow down and think harder about my code, and the timed WODs put me in situations that feel stressful. But instead of avoiding that discomfort, I realize it just means I need to grind. If I keep practicing, the parts that feel hard now, will eventually become second nature. The only way to get better is through repetition, so my plan is to keep coding consistently, review my mistakes, and treat each WOD as a chance to improve rather than just something to get through. It won’t be easy, but I can already tell that the effort will pay off in making me a stronger coder
+# A Hill I'm Willing To Die On
 
-
-*Okay so it's settled. It's time to lock in perhaps.* 
+So are coding standards and eslint worth the struggle? Personally, no not really, at least not for the small things. Although I agree that you cannot test, review, or reason about code that is inconsistent and messy. Most coding standards these days are just a roadblock to the real coding experience. Now, I still think we should have some format of coding standards so that peace is maintained, but at the end of the day, I think we can afford to loosen up a bit. Especially on whitespace, and that's a hill I'm willing to die on.
 
 Oh! And of course, the grammar checking and editing is courtesy of the one and only ChatGPT!
 
