@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript_meme.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/whitespace.jpg">
 
 *Oh man! I don't feel like locking in!*
 
