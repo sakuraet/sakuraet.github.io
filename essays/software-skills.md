@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Do Programmers Dream of Infinite Sheep "
+title: "Do Programmers Dream Of Infinite Sheep "
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-08
 published: true
