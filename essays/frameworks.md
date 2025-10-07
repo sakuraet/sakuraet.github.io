@@ -24,7 +24,7 @@ Bootstrap and many other UI frameworks still have a learning curve, which means 
 ## Are There Benefits? 
 Now you might be thinking, "Why not just use CSS then?" The answer is efficiency. UI frameworks such as Bootstrap will save you the hassle of writing multiple lines of code to get this one part of your website to the perfect style that you want. But if you use Bootstrap, you turn 10 lines of code in your CSS file into 1 line of code in your HTML file. This is a MAJOR time saver. There's also other features like pre-made icons, screen-adjustment (as mentioned above), and pre-made buttons that anyone can use without the requirement of writing HTML and CSS. For example, here’s a button I created in seconds using Bootstrap 5:
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/frameworks/button.png">
+<img width="1000px" class="img-fluid" src="../img/frameworks/button.png">
 
 
 ## So Should We All Use UI Frameworks? 
