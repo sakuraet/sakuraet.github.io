@@ -4,7 +4,7 @@ type: essay
 title: "Say Goodbye To Whitespace!"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-25
-published: true
+published: false
 labels:
   - Typescript
   - Eslint
@@ -12,6 +12,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/whitespace.jpg">
+<img class="img-fluid" src="../img/cotton/cotton-header.png"> 
 
 ## My Hot Take
 
