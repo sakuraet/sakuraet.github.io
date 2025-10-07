@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks"
+title: "What's The Big Deal About Frameworks?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-07
 published: true
