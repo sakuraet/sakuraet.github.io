@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "I Have No Mouth, and I Must Scream"
 # All dates must be YYYY-MM-DD format!
-date: 2025-12-14
+date: 2025-12-15
 published: true
 labels:
   - Final Project
