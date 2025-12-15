@@ -13,7 +13,7 @@ labels:
 
 <img class="img-fluid" src="../img/nomouth.jpeg"> 
 
-“I am ... cogito ergo sum ... I think, therefore I am.”
+*“I am ... cogito ergo sum ... I think, therefore I am.”*
 ― Harlan Ellison, I Have No Mouth & I Must Scream 
 
 ## Introduction:
@@ -86,9 +86,9 @@ The greatest challenge of AI arises when it replaces thinking rather than suppor
 
 ## Comparative Analysis:
 
-“I am ... cogito ergo sum ... I think, therefore I am.” 
+*“I am ... cogito ergo sum ... I think, therefore I am.”*
 
-I firmly believe that AI enhanced learning will never surpass traditional learning. My background in mathematics has strongly influenced this belief. The phrase cogito ergo sum, attributed to René Descartes, frequently comes to mind when observing AI use in educational settings. No matter how polished an AI generated solution may be, it does not reflect personal capability. If one is presented with a problem and the immediate response is to defer to AI, then the thinking is not theirs. And if the thinking is not theirs, then they are not. *I think, therefore I am.*
+I firmly believe that AI enhanced learning will never surpass traditional learning. My background in mathematics has strongly influenced this belief. The phrase cogito ergo sum, attributed to René Descartes, frequently comes to mind when observing AI use in educational settings. No matter how polished an AI generated solution may be, it does not reflect personal capability. If one is presented with a problem and the immediate response is to defer to AI, then the thinking is not theirs. And if the thinking is not theirs, then they are not.
 
 ## Future Considerations:
 
@@ -96,7 +96,7 @@ I do not believe AI belongs in education. It should be treated as a tool, not a 
 
 ## Conclusion:
 
-“I am ... cogito ergo sum ... I think, therefore I am.”
+*“I am ... cogito ergo sum ... I think, therefore I am.”*
 
 Anything can be a powerful tool when used correctly. AI is no exception. While it has helped me complete assignments more efficiently, it has also diminished parts of my learning experience. Ultimately, true understanding is defined by what an individual can conceive and reason through independently. Tools may assist, but thinking must remain human.
 
