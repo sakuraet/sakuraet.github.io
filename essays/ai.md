@@ -88,7 +88,7 @@ The greatest challenge of AI arises when it replaces thinking rather than suppor
 
 *“I am ... cogito ergo sum ... I think, therefore I am.”*
 
-I firmly believe that AI enhanced learning will never surpass traditional learning. My background in mathematics has strongly influenced this belief. The phrase cogito ergo sum, attributed to René Descartes, frequently comes to mind when observing AI use in educational settings. No matter how polished an AI generated solution may be, it does not reflect personal capability. If one is presented with a problem and the immediate response is to defer to AI, then the thinking is not theirs. And if the thinking is not theirs, then they are not.
+I firmly believe that AI enhanced learning will never surpass traditional learning. My background in mathematics has strongly influenced this belief. The phrase "cogito ergo sum", attributed to René Descartes, frequently comes to mind when observing AI use in educational settings. No matter how polished an AI generated solution may be, it does not reflect personal capability. If one is presented with a problem and the immediate response is to defer to AI, then the thinking is not theirs. And if the thinking is not theirs, then they are not- *cogito ergo sum*.
 
 ## Future Considerations:
 
