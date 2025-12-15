@@ -72,7 +72,7 @@ As for documenting code, I preferred to do this myself, as I find AI lacks the h
 
 ### Quality Assurance
 
-One area where AI proved consistently useful was debugging. When encountering ESLint errors or logical bugs, AI could quickly identify likely causes and suggest fixes. A common example was resolving ESLint errors or identifying breaks in logic for use cases in earlier WODs.
+One area where AI proved consistently useful was debugging. When encountering ESLint errors or logical bugs, AI could quickly identify likely causes and suggest fixes.
 
 ## Impact on Learning and Understanding:
 
