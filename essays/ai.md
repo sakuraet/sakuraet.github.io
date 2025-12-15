@@ -18,89 +18,87 @@ labels:
 
 ## Introduction:
 
-To turn a blind eye to the overwhelming prevelance that AI has in not only the classroom but professional enviornments like the computer science field and job market would to be a fool. It's cemented itself as an integral part of optimizng work effciency and even learning that it will not be going anywhere anytime soon. Even I much to my dismay use it nearly everyday for tasks especially in ICS 314 where I personally used ChatGPT and Claude to help me with my coding tasks.
+To turn a blind eye to the overwhelming prevalence that AI has in not only the classroom but professional environments like the computer science field and job market would be foolish. It has cemented itself as an integral part of optimizing work efficiency and even learning, and it will not be going anywhere anytime soon. Even I, much to my dismay, use it nearly every day for tasks, especially in ICS 314, where I personally used ChatGPT and Claude to help me with my coding tasks.
 
 ## Personal Experience with AI: 
 
 ### Experience WODs
 
-In the beginning I tried to refrain my usage of AI on the experience WODS because although I would save time and AI would be better at creating compact code than I would be. I found that using AI severly depleted the actual knowlegdge I would gain from the class or the experience I would have by rathe doiing it myself. However, ICS314 speficially was an extremely dense class in terms of deliverables and it essentially required students to turn to AI in order to finish their assignments on time, due to the class deliberatly being created with AI in mind.
+In the beginning, I tried to refrain from using AI on the experience WODs because, although it would save time and AI would be better at creating compact code than I would be, I found that using AI severely depleted the actual knowledge I would gain from the class or the experience I would have by rather doing it myself. However, ICS 314 specifically was an extremely dense class in terms of deliverables, and it essentially required students to turn to AI in order to finish their assignments on time, due to the class deliberately being created with AI in mind.
 
 ### In-class Practice WODs
 
-From what I remember I would be fairly lax with my use of AI for the in-class practice WODs because they weren’t graded by accuracy.
+For in-class Practice WODs, my approach was far more relaxed. Since these assignments were not graded based on accuracy, I felt less pressure to rely on AI. As a result, I was more comfortable limiting or completely avoiding AI during these exercises.
 
 ### In-class WODs
 
-The way that the in-class WODs were structured required you to use AI or else it would be virtually ipossible to finish the WODs in time. For both the In-class Practice WODs and the In-class WODs, I found that the time frame was too fast to not use AI on the assignments. Since the stakes were so high the pay out of not using AI was severe, it was really like you either use AI or asking losing 90% of your grade on a heavily weighted assigment. Only a fool wouldn't use AI in this case, it was necessary to use AI to complete the tasks unless you were willing to forfeight your grade for understanding the material which is a bet that most would not take.
+The in-class WODs, however, were a completely different story. The structure and time constraints of these assignments essentially required the use of AI. Without it, finishing within the allotted time was nearly impossible. Since the stakes were so high, the payout of not using AI was severe, it was really like you either use AI or risk losing 90% of your grade on a heavily weighted assignment. In many cases, it was necessary to use AI to complete the tasks unless you were willing to forfeit your grade in exchange for understanding the material, an option that most students would not realistically take.
 
 ### Essays
 
-As for writing my essays, I still have not used AI as I think no-one including myself wants to read AI generated writing. Moreover, I do not enjoy the "voice" that AI has and I would rather practice my typing skills than waste a bathtub amount of water. However, I do use AI to check for spellng and grammar errors as I'm pretty prone to those.
+As for writing my essays, I have not used AI to generate content, as I believe no one, including myself, wants to read AI generated writing. However, I do use AI or Grammarly to check for spelling and grammar errors, as I am fairly prone to those mistakes.
 
 ### Final project
 
-For the final project, I used Claude to help me generate code given our requirements. I would provide Claude with the requirements and ask it to generate code snippets that I could then integrate into our project. It was mostly "vibe coded" as AI would be able to output a rough draft quicker than I could type through it.
+For the final project, I used Claude and ChatGPT to help me generate basic code. I would provide the LLMs with my instructions and ask it to generate brief outlines that I could then integrate into our project. It was mostly “vibe coded,” as AI was able to output a rough draft quicker than I could type it out myself.
 
 ### Learning a Concept / Tutorials 
 
-This is the largest section that I use AI and what I personally believe that AI has a beneficial role in. I find myself asking AI for a high-level overview of a concept, or to provide me with an example so I can think through it myself. For learning new concepts or tutorials, I would often use ChatGPT to explain concepts in simpler terms or provide examples that would help me understand the material better. I found this particularly useful because AI is really stong at simplifying complex ideas and providing simple examples that are easy to understand. 
+This is the area where I believe AI has its most legitimate and beneficial role. I frequently used AI to provide overviews of unfamiliar concepts or to offer simplified explanations. In my opinion, LLMs are particularly effective at breaking down complex ideas into digestible excerpts when first approaching a new topic or concept. I believe AI can be a great tool in the learning process, but it should never overtake the learning itself.
 
 ### Answering a Question in Class or in Discord 
 
-For answering questions in class or discord, I didn't use AI tools. I believe that if you need AI to ask a question or answer a question we might be doomed but a larger factor is that I didn't ask or answer many questions in general.
+For answering questions in class or on discord, I didn't use AI tools, as I didn't ask or answer many questions in general.
 
-### Asking or Answering a Smart-Question 
+### Asking or Answering a Smart Question 
 
-For asking or answering smart questions, I didn't use AI, however I didn't ask a smart-question in general so.
+For asking or answering smart questions, I didn't use AI, for the same reasoning above.
 
 ### Coding Example 
 
-This ties in with the ‘Learning a concept / tutorial’ section. I use AI to give me an example to understand use-cases in the earlier WODs however I've never explicitly asked for a coding example.
+This ties in with the “Learning a Concept / Tutorials” section. I've used AI to give me examples to understand use cases in the earlier WODs, however, I’ve never explicitly asked for a full coding example.
 
 ### Explaining Code
 
-For explaining code, I generally try to parse through the code on my own. My belief is that if I'm using AI to generate code for time and efficeny's sake I should at least understand what the code is doing. The only exception to this was the in-class WODs where the outcome of a passing grade prevailed more than knowledge of the material.
+For explaining code, I generally try to parse through it on my own. My belief is that if I am using AI to generate code for time and efficiency’s sake, I should at least understand what the code is doing. The only exception to this was the in-class WODs, where the outcome of a passing grade prevailed more than knowledge of the material.
 
 ### Writing Code
 
-For writing code, I used Claude to write solutions given a set of requirements. Sometimes I would take the code generated by Claude and run it to see what outputs it produced. Then I would parse through the code line by line to understand what each part of the code did. This was mostly due to time-constraints and
+When writing code, I often used AI generated solutions as a baseline. Sometimes I would take the code generated by Claude, run it, and observe the outputs it produced. I would then parse through the code line by line to understand what each part was doing. Again, my belief was that if I was going to use AI for efficiency’s sake, I still owed it to myself to understand the logic of the solution.
 
 ### Documenting Code
 
-As for documenting code, I perfer to do it myself as I find AI lacks the human touch needed for explanation. Often times the LLMs will add unnecessary styling choices to the comments, or the comments itself would be too verbose or lacking.
+As for documenting code, I preferred to do this myself, as I find AI lacks the human touch needed to explain code in my preferred style. Oftentimes, LLMs will add unnecessary styling choices to comments, or the comments themselves will be too verbose or lacking.
 
 ### Quality Assurance
 
-I often used ChatGPT for this when an error would come up and I had to debug it. A common example would be to fix my ESLint errors or to find a brea in logic for use-cases in the earlier WODs.
+One area where AI proved consistently useful was debugging. When encountering ESLint errors or logical bugs, AI could quickly identify likely causes and suggest fixes. A common example was resolving ESLint errors or identifying breaks in logic for use cases in earlier WODs.
 
 ## Impact on Learning and Understanding:
 
-The benefits of AI is highly controversial for me, on one end I believe it's a great tool in terms of time-efficency however, the payout is the amount of knowledge gained. It's the same with anything even Ozempic, sure you could loose weight quickly but the payout for using a shoortcut is being left with saggy skin. And in ICS314 the saggy skin was my understanding of the material I was producing and the content of the course.
+The benefits of AI are highly controversial for me. On one end, I believe it’s a great tool in terms of time efficiency, however, the tradeoff is the amount of knowledge gained. It’s the same with anything, even Ozempic. Sure, you could lose weight quickly, but the payout for using a shortcut is being left with saggy skin. And in ICS 314, the saggy skin was my understanding of the material I was producing and the content of the course.
 
 ## Practical Applications:
 
 ## Challenges and Opportunities:
 
-“I am ... cogito ergo sum ... I think, therefore I am.” 
-
-The challenge of AI is when you use it for everything and aren’t responsible for your own learning. I experienced this first hand in my final project when I realized my one of my team mates had soley relied on AI to pass their class and they had no concept of anything software development wise. In their case this lead them unable to do simple tasks because their LLM wiuld halllucinate constantly and they wouldn/'t be able to tell. 
+The greatest challenge of AI arises when it replaces thinking rather than supporting it. I experienced this firsthand during the final project, when I realized that one of my teammates had relied almost entirely on AI throughout the course. As a result, they lacked even foundational software development knowledge. When their AI hallucinated, as it often does, they had no ability to recognize or correct the errors. This level of dependency rendered them incapable of completing even simple tasks independently.
 
 ## Comparative Analysis:
 
 “I am ... cogito ergo sum ... I think, therefore I am.” 
 
-I 
+I firmly believe that AI enhanced learning will never surpass traditional learning. My background in mathematics has strongly influenced this belief. The phrase cogito ergo sum, attributed to René Descartes, frequently comes to mind when observing AI use in educational settings. No matter how polished an AI generated solution may be, it does not reflect personal capability. If one is presented with a problem and the immediate response is to defer to AI, then the thinking is not theirs. And if the thinking is not theirs, then they are not. *I think, therefore I am.*
 
 ## Future Considerations:
 
-“I am ... cogito ergo sum ... I think, therefore I am.” 
+I do not believe AI belongs in education. It should be treated as a tool, not a foundation. While there is room for thoughtful integration, the normalization of dependency on AI is dangerous. Habits formed in the classroom follow students into their professional careers, and overreliance on AI threatens to erode fundamental problem-solving skills.
 
 ## Conclusion:
 
-“I am ... cogito ergo sum ... I think, therefore I am.” 
+“I am ... cogito ergo sum ... I think, therefore I am.”
 
-Anthing can be a great tool when used in the right way. This is simply a universal fact in all disciplines 
+Anything can be a powerful tool when used correctly. AI is no exception. While it has helped me complete assignments more efficiently, it has also diminished parts of my learning experience. Ultimately, true understanding is defined by what an individual can conceive and reason through independently. Tools may assist, but thinking must remain human.
 
 
 
