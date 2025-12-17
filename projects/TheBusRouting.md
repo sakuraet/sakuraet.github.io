@@ -34,4 +34,4 @@ IGRAPH cc2c7b7 D-W- 3755 4496 -- Bus Network Rewired
 }
 ```
 
-You can learn more at the [HCREAM Website!](https://hcream.org/blog/2024/12/31/using-network-analysis-to-research-the-oahu-bus-network/).
+You can learn more at the [HCREAM Website!](https://hcream.org/blog/2024/12/31/using-network-analysis-to-research-the-oahu-bus-network/)
