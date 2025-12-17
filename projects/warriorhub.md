@@ -16,7 +16,7 @@ summary: "WarriorHub is a centralized platform designed to simplify campus event
 
 WarriorHub is a centralized event discovery and scheduling platform built for students at the University of Hawaiʻi at Mānoa. The application was created to address the fragmentation of campus event information across multiple calendars, emails, and organization pages by providing a single, searchable system for discovering and tracking events.
 
-Students can sign up using their hawaii.edu email to browse upcoming events, mark events they are interested in, view their saved events on a personalized My Events page, and explore all events through calendar and search views. The platform supports three user roles—users, organizers, and administrators—each with role-specific permissions. Organizers can create and manage events, while administrators review events and manage accounts to ensure accuracy and quality. WarriorHub was developed by a five-person team as the final project for ICS 314 using Issue Driven Project Management (IDPM).
+Students can sign up using their @hawaii.edu email to browse upcoming events, mark events they are interested in, view their saved events on a personalized My Events page, and explore all events through calendar and search views. The platform supports three user roles; users, organizers, and administrators; each with role-specific permissions. Organizers can create and manage events, while administrators review events and manage accounts to ensure accuracy and quality. WarriorHub was developed by a five-person team as the final project for ICS 314 using Issue Driven Project Management (IDPM).
 
 ## Resource Links
 
@@ -38,7 +38,7 @@ In addition to development, I served as a project management lead by organizing 
 
 This project gave me hands-on experience with collaborative software engineering beyond individual assignments. Working in a shared codebase taught me the importance of clear issue scoping, version control discipline, and communication when multiple developers are contributing simultaneously.
 
-I learned that building a reliable application requires more than just adding features—it involves enforcing role-based access, maintaining data consistency, handling edge cases, and continuously debugging as new functionality is introduced. I also gained a deeper appreciation for project management practices like Issue Driven Project Management, which helped keep development organized and progress visible.
+I learned that building a reliable application requires more than just adding features, it involves enforcing role-based access, maintaining data consistency, handling edge cases, and continuously debugging as new functionality is introduced. I also gained a deeper appreciation for project management practices like Issue Driven Project Management, which helped keep development organized and progress visible.
 
 Overall, WarriorHub strengthened my understanding of software engineering as an iterative, team-based process that balances technical implementation, system reliability, and coordination among developers.
 
