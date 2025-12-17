@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "LEAN", "R", "Python", "Maya" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "LEAN", "R", "Python", "Maya", "Next.js" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "Vercel" ]
     }
   ],
   "education": [
@@ -41,6 +41,30 @@
     }
   ],
   "work": [
+        {
+      "company": "UHERO",
+      "position": "Housing Research Assistant",
+      "website": "",
+      "startDate": "2025-08-01",
+      "endDate": "Present",
+      "summary": "Economics Research Assistant under the Housing Division",
+      "highlights": [
+        "Created pro forma models based on Oahu housing data",
+        "Coded housing dashboards in R for the state government"
+      ]
+    },
+        {
+      "company": "UHM Mathematics Department",
+      "position": "Head Learning Assistant",
+      "website": "",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "summary": "Lead and manage the Calculus I Learning Assistant team",
+      "highlights": [
+        "Coordinated between professors, the Mathematics Department, and Learning Assistants.",
+        "Previously served as a Learning Assistant for M140, M241, and M242, supporting instruction in foundational mathematics courses."
+      ]
+    },
     {
       "company": "Department of Transportation: Engineering Design",
       "position": "Project Management Intern",
@@ -51,18 +75,6 @@
       "highlights": [
         "Maintain, update, and oversee official PDRs and field orders",
         "Designed signage for concourse E at HNL Airport"
-      ]
-    },
-    {
-      "company": "UHERO",
-      "position": "Housing Research Assistant",
-      "website": "",
-      "startDate": "2025-08-01",
-      "endDate": "Present",
-      "summary": "Economics Research Assistant under the Housing Division",
-      "highlights": [
-        "Created pro forma models based on Oahu housing data",
-        "Coded housing dashboards in R for the state government"
       ]
     }
   ],
