@@ -45,12 +45,12 @@ Overall, WarriorHub strengthened my understanding of software engineering as an 
 ## Website Screenshots 
 
 <p align="center">
-  <img src="img/home_user.png" alt="User Home Page" width="100%">
+  <img src="../img/home_user.png" alt="User Home Page" width="100%">
 </p>
 <p align="center">
-  <img src="img/help_page1.png" alt="User Home Page" width="100%">
+  <img src="../img/help_page1.png" alt="User Home Page" width="100%">
 </p>
 <p align="center">
-  <img src="img/myevents_card_user.png" alt="User My Events Page" width="100%">
+  <img src="../img/myevents_card_user.png" alt="User My Events Page" width="100%">
 </p>
 
