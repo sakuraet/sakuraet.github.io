@@ -1,45 +1,37 @@
 ---
 layout: project
 type: project
-image: img/crslogo.png
-title: "WarriorHub: UH Manoa Event Scheduler"
+image: img/warriorhublogo.png
+title: "WarriorHub"
 date: 2025
 published: true
 labels:
-  - Website
+  - Nextjs
   - TypeScript
-  - Bootstrap
-summary: "A website where all UH students can schedule."
+  - Vercel
+summary: "WarriorHub: A UH Mānoa Event Scheduler. My ICS 314 final project, it focused on improving scheduling events for the UH community."
 ---
-
-<div class="p-4">
-  <img src="../img/CRSHP.jpg" class="img-fluid rounded mx-auto d-block" alt="Homepage screenshot">
-</div>
 
 ## Overview
 
-The Campus Resource Scheduler (CRS) was an application I developed with four other students over the course of my ICS 314 - Software Engineering class. It is a web application developed for the students and faculty of all University of Hawaii campuses. The main function of the website is to allow anyone attending a University of Hawaii campus to see what resources are available to borrow and use. It is a hub that contains both physical resources and location-based resources that people may need for a set amount of time. It allows the user to schedule, manage, and return resources through a user-friendly interface. They are also able to customize their own personal profile within the website. By doing so, they can quickly search for relevant resources tailored to their profile. They can also ask our AI assistant, which will guide the user based on their prompt to the resources they may need.
+For my software engineering class, my group and I came up with the idea to create a centralized event discovery platform catered to the students that are attending the University of Hawaii at Mānoa. The goal for this web application was to increase student engagement in on-campus activities by providing a single, easy-to-use platform for discovering and tracking events. Rather than navigating multiple calendars and email notifications, students can view all upcoming events in one place. Every student who creates an account using their hawaii.edu student email can easily view upcoming events, add their ‘interested events’ to their My Events page, view all events on a single Calendar page, and stay up-to-date with all activities and events that are held throughout the semester. Our web application also allows for organizer accounts to create and manage events that will be automatically added to the Search Events page and Calendar page once they are created. Lastly, admin accounts will be able to validate and review all events, as well as all user, organizer, and admin accounts to ensure quality and accuracy. Additional information and source code for this web application project can be found on our WarriorHub GitHub page.
 
-## My Role
+## Resource Links
 
-My role in this project was to work on both the user home page and the admin home page, as shown in the images below. The user home page is the first thing a user sees when they log into the Campus Resource Scheduler. It gives them a brief explanation of what they can do in the application. Underneath that, it shows three resources. These resources are ones that were recently made available—whether they weren't booked yet or another user returned them, making them available to be booked again.
+* [WarriorHub Organization](https://github.com/warriorhub)
+* [WarriorHub Project Repository](https://github.com/warriorhub/warriorhub)
+* [WarriorHub GitHub.io Page](https://warriorhub.github.io/)
+* [WarriorHub Live Deployment](https://warriorhub-gamma.vercel.app/)
 
-<div class="p-4">
-  <img src="../img/HP.jpg" class="img-fluid rounded mx-auto d-block" alt="User Homepage screenshot">
-</div>
 
-The admin home page is similar in that it also displays resources, but it is designed for any admin (such as me or my four other teammates) to monitor how the website is functioning, including when and where resources were booked and who booked them. On the admin home page, you can see all resources currently booked by a user and not owned by the admin (i.e., not currently booked by the admin).
+## My Contributions
 
-<div class="p-4">
-  <img src="../img/AdminHP.jpg" class="img-fluid rounded mx-auto d-block" alt="Admin homepage screenshot">
-</div>
+My primary role on this project was Front-End Developer, with additional responsibilities involving application logic, role-based access, and automated testing using Playwright. I developed the Event Search page, which loaded event data directly from the database and implemented search functionality for users to filter through events by event name, date, organization, and category, which allowed users to efficiently find relevant events that they are interested in attending. For administrative functionality, I created the Admin List Events page and assisted with implementing update and delete features for both administrators and organizers, allowing them to manage their events effectively with a single button and an edit event form page.
+
+In addition to front-end development, I assisted with managing the role-based API access that ensured each page and feature was only accessible to the appropriate user type, such as user, admin, or organizer. I also contributed to the quality of our application by implementing Playwright into the project. This included writing, creating, and fixing automated tests for each user type and all of their respective pages.
 
 ## Lessons Learned
 
-This was my first time modifying an application to show different homepages upon login depending on the role—whether you are not logged in, a user, or an admin. It was definitely challenging to tackle this unique problem, which I had not encountered yet in my ICS 314 - Software Engineering class. This was the main technical issue I faced, and it took many hours to figure out. In the end, I was able to implement the solution successfully.
+In this project, I was able to gain real hands-on experience with a collaborative software development project, such as working within a shared GitHub repository, adhering to coding standards, following design patterns, and respecting ethical choices in software engineering. I definitely learned that front-end and back-end development are not as simple as I had originally thought them to be because my experience with front-end development extended beyond just the visual aspects of the web application and required careful use of backend logic, APIs, and respect for each user role type. Most importantly, I was able to learn the significance of automated testing in maintaining software quality and ensuring that a web application is consistent and works across different web browsers and environments. Overall, this project strengthened my understanding of software engineering and development as a collaborative process rather than just writing coding assignments and watching lectures.
 
-This experience taught me a lot about role-based rendering and strengthened my problem-solving skills. It also taught me important teamwork skills. I had to write code while keeping in mind other collaborators working at the same time. This was also a first for me, as I had previously only worked in the same file or space as everyone else. I gained vital experience and skills in both coding and teamwork through this project, and I am grateful for the experience—and for my teammates.
-
-Here is the link to the GitHub: [GitHub](https://github.com/campus-resource-scheduler-project)
-
-Here is the link to the Website: [Website](https://campus-resource-scheduler-project.vercel.app/)
+## Website Screenshots 
