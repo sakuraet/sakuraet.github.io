@@ -27,7 +27,7 @@ We encountered design patterns primarily through the Next.js GitHub template use
 
 The value of design patterns extends beyond web development. In areas I am interested in, such as computer graphics, similar principles apply. Reusable hierarchical models, physics components, or environment templates can significantly reduce development time while improving consistency. ICS 314 helped me understand that good software design is about creating systems that scale and adapt over time.
 
-## Learning Agile Through Issue-Driven Project Management
+## Agile Project Management
 
 Another major concept I learned in ICS 314 was Agile Project Management, specifically Issue-Driven Project Management (IDPM). Agile project management is an approach that emphasizes adaptability, incremental progress, and continuous feedback. Instead of planning an entire project upfront, work is broken into smaller tasks that can be completed, reviewed, and adjusted as the project evolves.
 
