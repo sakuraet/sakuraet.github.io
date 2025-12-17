@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "LEAN", "R", "Python", "Maya", "Next.js" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "LEAN", "R", "Python", "Maya", "Next.js", "Typescript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -41,7 +41,7 @@
     }
   ],
   "work": [
-        {
+    {
       "company": "UHERO",
       "position": "Housing Research Assistant",
       "website": "",
@@ -53,7 +53,7 @@
         "Coded housing dashboards in R for the state government"
       ]
     },
-        {
+    {
       "company": "UHM Mathematics Department",
       "position": "Head Learning Assistant",
       "website": "",
