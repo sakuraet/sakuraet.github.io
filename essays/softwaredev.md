@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="img-fluid" src="../img/cat.jpg"> 
+<img width="300px" class="img-fluid" src="../img/cat.jpg"> 
 
 ## Discovering the Real World of Software Engineering
 
