@@ -30,4 +30,4 @@ lemma rat_dense_in_real_unit : "∀x::real. ∀y::real. (
 )"
 ```
 
-You can learn more at the [UH Manoa Math Marginis Website!](https://math.hawaii.edu/wordpress/marginis/jla/).
+You can learn more at the [UH Manoa Math Marginis Website!](https://math.hawaii.edu/wordpress/marginis/jla/)
